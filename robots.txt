@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://klarblatt.github.io/sitemap.xml
